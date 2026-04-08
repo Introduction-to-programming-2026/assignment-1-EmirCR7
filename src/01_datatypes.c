@@ -4,6 +4,7 @@
 TASK 1: Data Types
 */
 
+
 int main(void) {
     // TODO 1: Print sizes
     printf("=== Sizes of Data Types (bytes) ===\n");
